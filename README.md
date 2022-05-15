@@ -1,0 +1,2 @@
+# NodeExpress-HogwartsWebsite
+This website is created using NodeJS to write backend code, Express, and MongoDB for database stuff. This website is basically a user authentication site, where you can register yourself, after registering your data gets stored into the database. It also stores JWT Token in a local storage as cookies so that user can only visit certain page if he/she is successfully logged in to the website.
